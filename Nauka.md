@@ -1,0 +1,3 @@
+
+# uczenie się
+[[Pamięć]]

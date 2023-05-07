@@ -1,6 +1,7 @@
 Witaj
 
 # Mózg
+[[Nauka]]
 
 
 
