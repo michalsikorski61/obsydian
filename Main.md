@@ -1,8 +1,7 @@
 Witaj
 
-Mózg
+# Mózg
 
-Programowanie
 
-co tu się odwala
-is it working?
+# Programowanie
+
