@@ -1,1 +1,5 @@
 Witaj
+
+Mózg
+
+Programowanie
