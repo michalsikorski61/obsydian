@@ -8,27 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c80ea58aaefcd15a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "b41b3c1cd5f3d2a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Jak komputer wykonuje program.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a862ee4a84c6fbf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b857a30869d42b66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b41b3c1cd5f3d2a1",
+  "active": "b857a30869d42b66",
   "lastOpenFiles": [
-    "Main.md"
+    "Jak komputer wykonuje program.md",
+    "Main.md",
+    "README.md"
   ]
 }

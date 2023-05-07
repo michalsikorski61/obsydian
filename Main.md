@@ -3,5 +3,6 @@ Witaj
 # Mózg
 
 
-# Programowanie
 
+# Programowanie
+[[Jak komputer wykonuje program]]
